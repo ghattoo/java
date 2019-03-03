@@ -1,0 +1,20 @@
+package valtozok;
+
+public class valtozok {
+
+	public static void main(String[] args) {
+		//primitive types:
+		byte totiByte =127;  //-128 ... 127
+		short totiShort = 32767;  //-32,768 ... 32,767
+		
+		
+		
+		
+		System.out.println(totiByte);
+		System.out.println(totiShort);
+		
+		
+		
+	}
+
+}

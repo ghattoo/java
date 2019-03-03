@@ -1,0 +1,18 @@
+package video_02;
+
+public class video02 {
+
+	public static void main(String[] args) {
+		//System.out.println("Hello Wilág!!!");
+
+		int szam1 = 5;
+		int szam2 = 10;
+		System.out.println(szam1);
+		
+		szam1 = 15;
+		System.out.println(szam1);
+		
+		
+	}
+
+}
