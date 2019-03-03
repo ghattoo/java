@@ -1,0 +1,14 @@
+package ha;
+
+public class hagyakorlas {
+
+	public static void main(String[] args) {
+		int eletkor = 0;
+		
+		if (eletkor < 0) 
+			System.out.println("Még meg sem születtél");
+		
+
+	}
+
+}

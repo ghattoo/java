@@ -1,0 +1,11 @@
+package ha;
+
+public class hagyakorlas {
+
+	public static void main(String[] args) {
+		int eletkor = 5;
+		
+
+	}
+
+}

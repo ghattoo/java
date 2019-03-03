@@ -1,0 +1,34 @@
+package ha;
+
+public class hagyakorlas {
+
+	public static void main(String[] args) {
+		//int eletkor = 0;
+		//int eletkor = -2;
+		//int eletkor = 1;
+		//int eletkor = 5;
+		//int eletkor = 9;
+		int eletkor = 16;
+		//int eletkor = -2;
+		
+		if (eletkor <= 0) 
+			System.out.println("Még meg sem születtél");
+		
+		else if (eletkor > 0 && eletkor < 5)
+			System.out.println("Kicsi baba vagy!");
+		
+		else if (eletkor >= 5 && eletkor < 8)
+			System.out.println("Tudsz egyedül pisilni");
+		
+		else if (eletkor >= 8 && eletkor < 15)
+			System.out.println("Már suliba jársz");
+		
+		else if (eletkor >= 15 && eletkor < 18)
+			System.out.println("Már csajozol, de még nem piálhatsz");
+		
+		else
+			System.out.println("Nagykorú vagy, ihatsz sört meg pálinkát is");
+		
+	}
+
+}
